@@ -1,0 +1,319 @@
+match_type,confidence_score,date_bank,date_check,amount,amount_bank,amount_check,description_bank,description_check,transaction_id_bank,transaction_id_check
+Phase 1: Deterministic (Unique Amount),,2023-01-01 00:00:00,2022-12-31 00:00:00,46.48,,,BP GAS #1775,Fill up,B0047,R0047
+Phase 1: Deterministic (Unique Amount),,2023-01-01 00:00:00,2022-12-31 00:00:00,51.53,,,BP GAS #4099,Fill up,B0092,R0092
+Phase 1: Deterministic (Unique Amount),,2023-01-02 00:00:00,2022-12-31 00:00:00,108.21,,,CAFE #6311,Dinner out,B0015,R0015
+Phase 1: Deterministic (Unique Amount),,2023-01-02 00:00:00,2022-12-30 00:00:00,137.35,,,TRADER JOES,Groceries,B0084,R0084
+Phase 1: Deterministic (Unique Amount),,2023-01-04 00:00:00,2023-01-01 00:00:00,198.14,,,KROGER #6864,Food shopping,B0142,R0142
+Phase 1: Deterministic (Unique Amount),,2023-01-09 00:00:00,2023-01-07 00:00:00,158.43,,,KROGER #5496,Grocery store,B0251,R0251
+Phase 1: Deterministic (Unique Amount),,2023-01-10 00:00:00,2023-01-10 00:00:00,72.16,,,bp gas #7420,Fuel,B0017,R0017
+Phase 1: Deterministic (Unique Amount),,2023-01-14 00:00:00,2023-01-12 00:00:00,19.24,,,AMAZON.COM,Online purchase,B0124,R0124
+Phase 1: Deterministic (Unique Amount),,2023-01-14 00:00:00,2023-01-13 00:00:00,147.3,,,WHOLE FOODS #3931,Grocery store,B0184,R0184
+Phase 1: Deterministic (Unique Amount),,2023-01-15 00:00:00,2023-01-15 00:00:00,247.31,,,AUTO INS,Car insurance,B0105,R0105
+Phase 1: Deterministic (Unique Amount),,2023-01-17 00:00:00,2023-01-16 00:00:00,171.26,,,HEALTH INS PMT,Car insurance,B0021,R0021
+Phase 1: Deterministic (Unique Amount),,2023-01-17 00:00:00,2023-01-15 00:00:00,142.99,,,ONLINE PMT ELEC CO,Water bill,B0120,R0120
+Phase 1: Deterministic (Unique Amount),,2023-01-19 00:00:00,2023-01-18 00:00:00,58.3,,,CHEVRON #9838,Gas,B0037,R0037
+Phase 1: Deterministic (Unique Amount),,2023-01-20 00:00:00,2023-01-20 00:00:00,20.45,,,MONTHLY FEE,Monthly charge,B0220,R0220
+Phase 1: Deterministic (Unique Amount),,2023-01-21 00:00:00,2023-01-20 00:00:00,499.15,,,ONLINE TRANSFER,Moved to savings,B0038,R0038
+Phase 1: Deterministic (Unique Amount),,2023-01-22 00:00:00,2023-01-21 00:00:00,430.01,,,HEALTH INS PMT,Car insurance,B0175,R0175
+Phase 1: Deterministic (Unique Amount),,2023-01-23 00:00:00,2023-01-19 00:00:00,290.54,,,EBAY PURCHASE,Amazon order,B0282,R0282
+Phase 1: Deterministic (Unique Amount),,2023-01-26 00:00:00,2023-01-26 00:00:00,4437.99,,,DIRECT DEP PAYROLL,Salary,B0025,R0025
+Phase 1: Deterministic (Unique Amount),,2023-01-26 00:00:00,2023-01-24 00:00:00,153.5,,,ATM WD 3734,ATM cash,B0028,R0028
+Phase 1: Deterministic (Unique Amount),,2023-01-28 00:00:00,2023-01-28 00:00:00,37.42,,,SHELL #3558,Fuel,B0023,R0023
+Phase 1: Deterministic (Unique Amount),,2023-01-28 00:00:00,2023-01-27 00:00:00,72.69,,,RESTAURANT #5737,Restaurant,B0165,R0165
+Phase 1: Deterministic (Unique Amount),,2023-02-04 00:00:00,2023-02-02 00:00:00,130.08,,,ONLINE ORDER #4005,Amazon rder,B0029,R0029
+Phase 1: Deterministic (Unique Amount),,2023-02-05 00:00:00,2023-02-05 00:00:00,15.13,,,NETFLIX,Gym,B0018,R0018
+Phase 1: Deterministic (Unique Amount),,2023-02-05 00:00:00,2023-02-04 00:00:00,24.04,,,GYM MEMBERSHIP,Music subscription,B0042,R0042
+Phase 1: Deterministic (Unique Amount),,2023-02-05 00:00:00,2023-02-04 00:00:00,229.96,,,AMAZON.COM,Amazon order,B0063,R0063
+Phase 1: Deterministic (Unique Amount),,2023-02-07 00:00:00,2023-02-07 00:00:00,3511.77,,,ACH CREDIT SALARY,Paycheck,B0032,R0032
+Phase 1: Deterministic (Unique Amount),,2023-02-07 00:00:00,2023-02-06 00:00:00,887.44,,,ONLINE TRANSFER,Internal transfer,B0050,R0050
+Phase 1: Deterministic (Unique Amount),,2023-02-08 00:00:00,2023-02-05 00:00:00,205.21,,,KROGER #9110,Groceries,B0102,R0102
+Phase 1: Deterministic (Unique Amount),,2023-02-08 00:00:00,2023-02-06 00:00:00,169.06,,,KROGER #8022,Grocery store,B0265,R0265
+Phase 1: Deterministic (Unique Amount),,2023-02-09 00:00:00,2023-02-07 00:00:00,35.66,,,CAFE #2648,Lunch,B0230,R0230
+Phase 1: Deterministic (Unique Amount),,2023-02-12 00:00:00,2023-02-11 00:00:00,13.15,,,NETFLIX,GYM,B0178,R0178
+Phase 1: Deterministic (Unique Amount),,2023-02-14 00:00:00,2023-02-13 00:00:00,36.27,,,CHEVRON #1860,Gas,B0002,R0002
+Phase 1: Deterministic (Unique Amount),,2023-02-14 00:00:00,2023-02-12 00:00:00,116.92,,,DINER #1197,Dinner out,B0186,R0186
+Phase 1: Deterministic (Unique Amount),,2023-02-14 00:00:00,2023-02-13 00:00:00,103.15,,,ONLINE ORDER #7287,Online shopping,B0189,R0189
+Phase 1: Deterministic (Unique Amount),,2023-02-17 00:00:00,2023-02-16 00:00:00,126.19,,,ATM WITHDRAWAL #9754,Cash withdrawal,B0260,R0260
+Phase 1: Deterministic (Unique Amount),,2023-02-20 00:00:00,2023-02-20 00:00:00,25.64,,,MONTHLY FEE,Bank fee,B0083,R0083
+Phase 1: Deterministic (Unique Amount),,2023-02-21 00:00:00,2023-02-21 00:00:00,1357.67,,,XFER TO SAVINGS,Transfer,B0159,R0159
+Phase 1: Deterministic (Unique Amount),,2023-02-24 00:00:00,2023-02-23 00:00:00,100.83,,,TRADER JOES,Food shopping,B0034,R0034
+Phase 1: Deterministic (Unique Amount),,2023-02-24 00:00:00,2023-02-21 00:00:00,83.9,,,EBAY PURCHASE,Amazon order,B0198,R0198
+Phase 1: Deterministic (Unique Amount),,2023-02-25 00:00:00,2023-02-21 00:00:00,158.59,,,AMAZON.COM,Online purchase,B0126,R0126
+Phase 1: Deterministic (Unique Amount),,2023-02-26 00:00:00,2023-02-21 00:00:00,625.33,,,CHECK #3385,Paid by check,B0207,R0207
+Phase 1: Deterministic (Unique Amount),,2023-02-27 00:00:00,2023-02-26 00:00:00,226.34,,,AMAZON.COM,Online purchase,B0001,R0001
+Phase 1: Deterministic (Unique Amount),,2023-02-27 00:00:00,2023-02-27 00:00:00,392.84,,,INSURANCE PMT,Insuranc payment,B0238,R0238
+Phase 1: Deterministic (Unique Amount),,2023-02-28 00:00:00,2023-02-28 00:00:00,1932.97,,,ONLINE TRANSFER,Moved to savings,B0065,R0065
+Phase 1: Deterministic (Unique Amount),,2023-02-28 00:00:00,2023-02-25 00:00:00,115.32,,,AMAZON.COM,Online purchase,B0291,R0291
+Phase 1: Deterministic (Unique Amount),,2023-03-01 00:00:00,2023-02-27 00:00:00,44.51,,,RESTAURANT #6539,Eating out,B0231,R0231
+Phase 1: Deterministic (Unique Amount),,2023-03-06 00:00:00,2023-03-05 00:00:00,59.07,,,SAFEWAY #7019,Food shopping,B0122,R0122
+Phase 1: Deterministic (Unique Amount),,2023-03-06 00:00:00,2023-03-04 00:00:00,137.87,,,ATM WITHDRAWAL #7374,Cash,B0125,R0125
+Phase 1: Deterministic (Unique Amount),,2023-03-07 00:00:00,2023-03-05 00:00:00,91.77,,,RESTAURANT #7585,Eating out,B0157,R0157
+Phase 1: Deterministic (Unique Amount),,2023-03-08 00:00:00,2023-03-07 00:00:00,407.01,,,XFER TO SAVINGS,moved to savings,B0036,R0036
+Phase 1: Deterministic (Unique Amount),,2023-03-08 00:00:00,2023-03-08 00:00:00,33.45,,,GYM MEMBERSHIP,Music subscription,B0133,R0133
+Phase 1: Deterministic (Unique Amount),,2023-03-09 00:00:00,2023-03-09 00:00:00,2874.78,,,DIRECT DEPOSIT,MONTHLY SALARY,B0269,R0269
+Phase 1: Deterministic (Unique Amount),,2023-03-09 00:00:00,2023-03-06 00:00:00,115.81,,,MISC TRANSACTION 9096,Other expense,B0308,R0308
+Phase 1: Deterministic (Unique Amount),,2023-03-10 00:00:00,2023-03-10 00:00:00,58.47,,,CAFE #2707,Eating out,B0173,R0173
+Phase 1: Deterministic (Unique Amount),,2023-03-10 00:00:00,2023-03-09 00:00:00,94.11,,,DINER #9680,Dinner out,B0202,R0202
+Phase 1: Deterministic (Unique Amount),,2023-03-11 00:00:00,2023-03-11 00:00:00,191.79,,,WHOLE FOODS #6791,Grocery store,B0174,R0174
+Phase 1: Deterministic (Unique Amount),,2023-03-15 00:00:00,2023-03-10 00:00:00,923.27,,,CK #6699,Paid by check,B0244,R0244
+Phase 1: Deterministic (Unique Amount),,2023-03-17 00:00:00,2023-03-17 00:00:00,228.0,,,WHOLE FOODS #4943,Weekly groceries,B0051,R0051
+Phase 1: Deterministic (Unique Amount),,2023-03-17 00:00:00,2023-03-17 00:00:00,626.82,,,ONLINE TRANSFER,Internal transfer,B0123,R0123
+Phase 1: Deterministic (Unique Amount),,2023-03-18 00:00:00,2023-03-16 00:00:00,62.46,,,KROGER #3568,Food shopping,B0081,R0081
+Phase 1: Deterministic (Unique Amount),,2023-03-20 00:00:00,2023-03-17 00:00:00,157.81,,,CK #8989,Check #8989,B0056,R0056
+Phase 1: Deterministic (Unique Amount),,2023-03-20 00:00:00,2023-03-16 00:00:00,105.25,,,AMAZON.COM,Online shopping,B0268,R0268
+Phase 1: Deterministic (Unique Amount),,2023-03-22 00:00:00,2023-03-20 00:00:00,200.63,,,ONLINE PMT ELEC CO,Water bill,B0187,R0187
+Phase 1: Deterministic (Unique Amount),,2023-03-23 00:00:00,2023-03-21 00:00:00,228.5,,,CK #5389,Check payment,B0181,R0181
+Phase 1: Deterministic (Unique Amount),,2023-03-23 00:00:00,2023-03-20 00:00:00,249.17,,,TRADER JOES,Weekly groceries,B0200,R0200
+Phase 1: Deterministic (Unique Amount),,2023-03-28 00:00:00,2023-03-23 00:00:00,490.55,,,MISC TRANSACTION 4009,Other expense,B0303,R0303
+Phase 1: Deterministic (Unique Amount),,2023-04-04 00:00:00,2023-04-04 00:00:00,45.41,,,EXXON #1995,Gas station,B0061,R0061
+Phase 1: Deterministic (Unique Amount),,2023-04-04 00:00:00,2023-04-03 00:00:00,45.15,,,DINER #5859,Restaurant,B0072,R0072
+Phase 1: Deterministic (Unique Amount),,2023-04-06 00:00:00,2023-04-03 00:00:00,126.09,,,SAFEWAY #2184,Weekly groceries,B0288,R0288
+Phase 1: Deterministic (Unique Amount),,2023-04-07 00:00:00,2023-04-04 00:00:00,187.43,,,AMAZON.COM,Online shopping,B0152,R0152
+Phase 1: Deterministic (Unique Amount),,2023-04-08 00:00:00,2023-04-06 00:00:00,73.28,,,RESTAURANT #8215,Restaurant,B0096,R0096
+Phase 1: Deterministic (Unique Amount),,2023-04-09 00:00:00,2023-04-07 00:00:00,212.12,,,KROGER #2693,Groceries,B0258,R0258
+Phase 1: Deterministic (Unique Amount),,2023-04-12 00:00:00,2023-04-11 00:00:00,225.07,,,ONLINE PMT GAS CO,Water bill,B0109,R0109
+Phase 1: Deterministic (Unique Amount),,2023-04-13 00:00:00,2023-04-10 00:00:00,116.68,,,SAFEWAY#8513,Food shopping,B0041,R0041
+Phase 1: Deterministic (Unique Amount),,2023-04-15 00:00:00,2023-04-13 00:00:00,177.57,,,TRADER JOES,Groceries,B0245,R0245
+Phase 1: Deterministic (Unique Amount),,2023-04-16 00:00:00,2023-04-16 00:00:00,306.53,,,MISC TRANSACTION 5014,Other expense,B0301,R0301
+Phase 1: Deterministic (Unique Amount),,2023-04-17 00:00:00,2023-04-15 00:00:00,60.37,,,ATM 1225 CASH,Cash withdrawal,B0263,R0263
+Phase 1: Deterministic (Unique Amount),,2023-04-20 00:00:00,2023-04-18 00:00:00,239.27,,,SAFEWAY #2291,Food shopping,B0158,R0158
+Phase 1: Deterministic (Unique Amount),,2023-04-20 00:00:00,2023-04-17 00:00:00,350.51,,,CHECK #4327,Paid by check,B0289,R0289
+Phase 1: Deterministic (Unique Amount),,2023-04-21 00:00:00,2023-04-19 00:00:00,65.95,,,TRADER JOES,Grocery store,B0004,R0004
+Phase 1: Deterministic (Unique Amount),,2023-04-21 00:00:00,2023-04-19 00:00:00,99.35,,,ONLINE PMT GAS CO,Utilities,B0140,R0140
+Phase 1: Deterministic (Unique Amount),,2023-04-21 00:00:00,2023-04-19 00:00:00,54.97,,,KROGER #2843,Grocery store,B0201,R0201
+Phase 1: Deterministic (Unique Amount),,2023-04-22 00:00:00,2023-04-22 00:00:00,186.05,,,ONLINE TRANSFER,Internal transfer,B0233,R0233
+Phase 1: Deterministic (Unique Amount),,2023-04-26 00:00:00,2023-04-26 00:00:00,114.31,,,safeway #4385,Food shopping,B0020,R0020
+Phase 1: Deterministic (Unique Amount),,2023-04-27 00:00:00,2023-04-26 00:00:00,251.68,,,AUTO INS,Health insurance,B0131,R0131
+Phase 1: Deterministic (Unique Amount),,2023-05-05 00:00:00,2023-05-03 00:00:00,100.49,,,AMAZON.COM,Online purchase,B0259,R0259
+Phase 1: Deterministic (Unique Amount),,2023-05-05 00:00:00,2023-05-02 00:00:00,122.18,,,EBAY PURCHASE,Online shopping,B0276,R0276
+Phase 1: Deterministic (Unique Amount),,2023-05-05 00:00:00,2023-05-04 00:00:00,158.14,,,KROGER #7102,Weekly groceries,B0287,R0287
+Phase 1: Deterministic (Unique Amount),,2023-05-09 00:00:00,2023-05-09 00:00:00,176.44,,,WHOLE FOODS #4696,Groceries,B0163,R0163
+Phase 1: Deterministic (Unique Amount),,2023-05-10 00:00:00,2023-05-09 00:00:00,51.94,,,ATM 9006 CASH,Cash withdrawal,B0080,R0080
+Phase 1: Deterministic (Unique Amount),,2023-05-10 00:00:00,2023-05-09 00:00:00,191.62,,,WHOLE FOODS #1301,Weekly groceries,B0279,R0279
+Phase 1: Deterministic (Unique Amount),,2023-05-12 00:00:00,2023-05-08 00:00:00,75.99,,,EBAY PURCHASE,Online purchase,B0216,R0216
+Phase 1: Deterministic (Unique Amount),,2023-05-12 00:00:00,2023-05-10 00:00:00,19.01,,,EBAY PURCHASE,Online purchase,B0223,R0223
+Phase 1: Deterministic (Unique Amount),,2023-05-17 00:00:00,2023-05-16 00:00:00,59.64,,,TRADER JOES,Grocery store,B0086,R0086
+Phase 1: Deterministic (Unique Amount),,2023-05-17 00:00:00,2023-05-16 00:00:00,235.17,,,kroger #7278,Groceries,B0093,R0093
+Phase 1: Deterministic (Unique Amount),,2023-05-18 00:00:00,2023-05-18 00:00:00,45.04,,,DINER #9322,Lunch,B0010,R0010
+Phase 1: Deterministic (Unique Amount),,2023-05-18 00:00:00,2023-05-17 00:00:00,208.63,,,ATM WITHDRAWAL #5493,ATM cash,B0246,R0246
+Phase 1: Deterministic (Unique Amount),,2023-05-21 00:00:00,2023-05-21 00:00:00,768.69,,,ACH TRANSFER,Moved to savings,B0150,R0150
+Phase 1: Deterministic (Unique Amount),,2023-05-21 00:00:00,2023-05-19 00:00:00,118.1,,,RESTAURANT #9958,Eating out,B0180,R0180
+Phase 1: Deterministic (Unique Amount),,2023-05-21 00:00:00,2023-05-21 00:00:00,60.0,,,SHELL #1659,Fuel,B0193,R0193
+Phase 1: Deterministic (Unique Amount),,2023-05-23 00:00:00,2023-05-22 00:00:00,85.39,,,DINER #1466,Restaurant,B0007,R0007
+Phase 1: Deterministic (Unique Amount),,2023-05-23 00:00:00,2023-05-22 00:00:00,2987.73,,,DIRECT DEPOSIT,Monthly salary,B0071,R0071
+Phase 1: Deterministic (Unique Amount),,2023-05-26 00:00:00,2023-05-25 00:00:00,93.75,,,CAFE #6232,Restaurant,B0155,R0155
+Phase 1: Deterministic (Unique Amount),,2023-05-27 00:00:00,2023-05-27 00:00:00,3043.43,,,DIRECT DEPOSIT,Paycheck,B0055,R0055
+Phase 1: Deterministic (Unique Amount),,2023-05-27 00:00:00,2023-05-27 00:00:00,34.27,,,NETFLIX,Gym,B0111,R0111
+Phase 1: Deterministic (Unique Amount),,2023-05-28 00:00:00,2023-05-25 00:00:00,772.09,,,CHECK #2028,Paid y check,B0104,R0104
+Phase 1: Deterministic (Unique Amount),,2023-05-28 00:00:00,2023-05-28 00:00:00,37.95,,,BP GAS #7938,Fill up,B0108,R0108
+Phase 1: Deterministic (Unique Amount),,2023-05-29 00:00:00,2023-05-29 00:00:00,117.61,,,ONLINE TRANSFER,Moved to savings,B0221,R0221
+Phase 1: Deterministic (Unique Amount),,2023-05-30 00:00:00,2023-05-30 00:00:00,1656.03,,,ACH TRANSFER,Internal transfer,B0278,R0278
+Phase 1: Deterministic (Unique Amount),,2023-05-30 00:00:00,2023-05-26 00:00:00,307.73,,,MISC TRANSACTION 8806,Other expense,B0304,R0304
+Phase 1: Deterministic (Unique Amount),,2023-06-02 00:00:00,2023-05-31 00:00:00,283.32,,,EBAY PURCHASE,Online purchase,B0213,R0213
+Phase 1: Deterministic (Unique Amount),,2023-06-08 00:00:00,2023-06-05 00:00:00,825.91,,,CHECK #4152,Check payment,B0049,R0049
+Phase 1: Deterministic (Unique Amount),,2023-06-08 00:00:00,2023-06-06 00:00:00,57.25,,,CAFE #6530,DINNER OUT,B0146,R0146
+Phase 1: Deterministic (Unique Amount),,2023-06-09 00:00:00,2023-06-09 00:00:00,158.21,,,WHOLE FOODS #9392,Weekly groceries,B0094,R0094
+Phase 1: Deterministic (Unique Amount),,2023-06-09 00:00:00,2023-06-08 00:00:00,68.26,,,BISTRO #1980,Restaurant,B0285,R0285
+Phase 1: Deterministic (Unique Amount),,2023-06-10 00:00:00,2023-06-09 00:00:00,220.13,,,EBAY PURCHASE,Online purchase,B0045,R0045
+Phase 1: Deterministic (Unique Amount),,2023-06-15 00:00:00,2023-06-14 00:00:00,115.93,,,TRADER JOES,Groceries,B0192,R0192
+Phase 1: Deterministic (Unique Amount),,2023-06-16 00:00:00,2023-06-12 00:00:00,164.76,,,AMAZON.COM,Online shopping,B0211,R0211
+Phase 1: Deterministic (Unique Amount),,2023-06-16 00:00:00,2023-06-12 00:00:00,18.52,,,AMAZON.COM,Online purchase,B0270,R0270
+Phase 1: Deterministic (Unique Amount),,2023-06-18 00:00:00,2023-06-17 00:00:00,23.38,,,NETFLIX,Gym,B0274,R0274
+Phase 1: Deterministic (Unique Amount),,2023-06-19 00:00:00,2023-06-18 00:00:00,264.14,,,ONLINE ORDER #056,Online shopping,B0101,R0101
+Phase 1: Deterministic (Unique Amount),,2023-06-19 00:00:00,2023-06-18 00:00:00,270.02,,,AMAZON.COM,Amazon order,B0261,R0261
+Phase 1: Deterministic (Unique Amount),,2023-06-20 00:00:00,2023-06-19 00:00:00,88.66,,,DINER #4561,Eating out,B0090,R0090
+Phase 1: Deterministic (Unique Amount),,2023-06-23 00:00:00,2023-06-22 00:00:00,81.04,,,online pmt water,utilities,B0137,R0137
+Phase 1: Deterministic (Unique Amount),,2023-06-23 00:00:00,2023-06-22 00:00:00,1534.43,,,XFER TO SAVINGS,Moved to savngs,B0204,R0204
+Phase 1: Deterministic (Unique Amount),,2023-06-26 00:00:00,2023-06-25 00:00:00,57.08,,,EXXON #9996,Gas station,B0098,R0098
+Phase 1: Deterministic (Unique Amount),,2023-06-28 00:00:00,2023-06-27 00:00:00,1482.02,,,ONLINE TRANSFER,Transfer,B0147,R0147
+Phase 1: Deterministic (Unique Amount),,2023-07-01 00:00:00,2023-07-01 00:00:00,25.87,,,SUBSCRIPTION #8526,Music subscription,B0143,R0143
+Phase 1: Deterministic (Unique Amount),,2023-07-02 00:00:00,2023-07-02 00:00:00,116.54,,,ATM WD 6172,Cash withdrawal,B0172,R0172
+Phase 1: Deterministic (Unique Amount),,2023-07-03 00:00:00,2023-07-02 00:00:00,128.47,,,AAZON.COM,Online shopping,B0121,R0121
+Phase 1: Deterministic (Unique Amount),,2023-07-03 00:00:00,2023-07-03 00:00:00,155.69,,,ATM 1569 CASH,Cash,B0295,R0295
+Phase 1: Deterministic (Unique Amount),,2023-07-05 00:00:00,2023-07-03 00:00:00,60.07,,,TRADER JOES,Groceries,B0203,R0203
+Phase 1: Deterministic (Unique Amount),,2023-07-06 00:00:00,2023-07-04 00:00:00,40.69,,,ONLINE ORDER #8721,Online shopping,B0113,R0113
+Phase 1: Deterministic (Unique Amount),,2023-07-07 00:00:00,2023-07-06 00:00:00,68.22,,,EXXON #8035,Gas station,B0114,R0114
+Phase 1: Deterministic (Unique Amount),,2023-07-07 00:00:00,2023-07-04 00:00:00,124.11,,,ONLINE ORDER #3327,Amazon order,B0182,R0182
+Phase 1: Deterministic (Unique Amount),,2023-07-07 00:00:00,2023-07-05 00:00:00,85.4,,,KROGER #4394,Grocery store,B0290,R0290
+Phase 1: Deterministic (Unique Amount),,2023-07-11 00:00:00,2023-07-10 00:00:00,185.8,,,WHOLE FOODS 4157,Groceries,B0132,R0132
+Phase 1: Deterministic (Unique Amount),,2023-07-13 00:00:00,2023-07-12 00:00:00,32.62,,,CAFE #6592,Restaurant,B0235,R0235
+Phase 1: Deterministic (Unique Amount),,2023-07-14 00:00:00,2023-07-14 00:00:00,42.86,,,SPOTIFY,Streaming service,B0209,R0209
+Phase 1: Deterministic (Unique Amount),,2023-07-14 00:00:00,2023-07-13 00:00:00,67.74,,,CHEVRON #1262,Gas station,B0215,R0215
+Phase 1: Deterministic (Unique Amount),,2023-07-15 00:00:00,2023-07-14 00:00:00,49.53,,,NETFLIX,Monthly subscription,B0100,R0100
+Phase 1: Deterministic (Unique Amount),,2023-07-17 00:00:00,2023-07-16 00:00:00,97.22,,,WHOLE FOODS #7235,food shopping,B0044,R0044
+Phase 1: Deterministic (Unique Amount),,2023-07-19 00:00:00,2023-07-18 00:00:00,207.28,,,ATM WD 1161,ATM cash,B0059,R0059
+Phase 1: Deterministic (Unique Amount),,2023-07-19 00:00:00,2023-07-16 00:00:00,124.4,,,online order #5893,Online purchase,B0264,R0264
+Phase 1: Deterministic (Unique Amount),,2023-07-22 00:00:00,2023-07-22 00:00:00,46.58,,,SAFEWAY #7776,Food shopping,B0141,R0141
+Phase 1: Deterministic (Unique Amount),,2023-07-23 00:00:00,2023-07-21 00:00:00,43.84,,,CAFE #8892,Dinner out,B0066,R0066
+Phase 1: Deterministic (Unique Amount),,2023-07-27 00:00:00,2023-07-23 00:00:00,508.19,,,CHECK #7546,Check #7546,B0196,R0196
+Phase 1: Deterministic (Unique Amount),,2023-07-27 00:00:00,2023-07-25 00:00:00,186.51,,,TRADER JOES,Grocery store,B0227,R0227
+Phase 1: Deterministic (Unique Amount),,2023-07-29 00:00:00,2023-07-28 00:00:00,89.5,,,DINER #4763,Dinner out,B0154,R0154
+Phase 1: Deterministic (Unique Amount),,2023-07-30 00:00:00,2023-07-30 00:00:00,606.93,,,ONLINE TRANSFER,Moved to savings,B0040,R0040
+Phase 1: Deterministic (Unique Amount),,2023-07-30 00:00:00,2023-07-30 00:00:00,496.62,,,MISC TRANSACTION 2409,Other expense,B0306,R0306
+Phase 1: Deterministic (Unique Amount),,2023-08-02 00:00:00,2023-07-28 00:00:00,234.3,,,CK #9352,Check payment,B0243,R0243
+Phase 1: Deterministic (Unique Amount),,2023-08-03 00:00:00,2023-08-01 00:00:00,96.01,,,CAFE #6675,Eating out,B0058,R0058
+Phase 1: Deterministic (Unique Amount),,2023-08-03 00:00:00,2023-08-02 00:00:00,57.39,,,DINER #6592,Dinner out,B0138,R0138
+Phase 1: Deterministic (Unique Amount),,2023-08-04 00:00:00,2023-08-03 00:00:00,221.93,,,ONLINE PMT WATER,Electric bill,B0062,R0062
+Phase 1: Deterministic (Unique Amount),,2023-08-05 00:00:00,2023-08-04 00:00:00,102.1,,,WHOLE FOODS #8849,Weekly groceries,B0024,R0024
+Phase 1: Deterministic (Unique Amount),,2023-08-05 00:00:00,2023-08-05 00:00:00,1939.96,,,ACH TRANSFER,Transfer,B0134,R0134
+Phase 1: Deterministic (Unique Amount),,2023-08-08 00:00:00,2023-08-08 00:00:00,169.84,,,TRADER JOES,Groceries,B0136,R0136
+Phase 1: Deterministic (Unique Amount),,2023-08-08 00:00:00,2023-08-04 00:00:00,217.21,,,AMAZON.COM,Online shopping,B0144,R0144
+Phase 1: Deterministic (Unique Amount),,2023-08-08 00:00:00,2023-08-08 00:00:00,184.52,,,ONLINE PMT GAS CO,Gas bill,B0170,R0170
+Phase 1: Deterministic (Unique Amount),,2023-08-11 00:00:00,2023-08-09 00:00:00,131.33,,,WHOLE FOODS #8339,Grocery store,B0272,R0272
+Phase 1: Deterministic (Unique Amount),,2023-08-13 00:00:00,2023-08-11 00:00:00,170.39,,,WHOLE FOODS #2267,Grocey store,B0033,R0033
+Phase 1: Deterministic (Unique Amount),,2023-08-14 00:00:00,2023-08-13 00:00:00,57.21,,,BISTRO #4510,Restaurant,B0177,R0177
+Phase 1: Deterministic (Unique Amount),,2023-08-15 00:00:00,2023-08-14 00:00:00,408.05,,,AUTO INS,Health insurance,B0082,R0082
+Phase 1: Deterministic (Unique Amount),,2023-08-16 00:00:00,2023-08-16 00:00:00,419.78,,,INSURANCE PMT,Insurance payment,B0128,R0128
+Phase 1: Deterministic (Unique Amount),,2023-08-16 00:00:00,2023-08-16 00:00:00,79.52,,,BISTRO #9004,Restaurant,B0183,R0183
+Phase 1: Deterministic (Unique Amount),,2023-08-16 00:00:00,2023-08-11 00:00:00,250.53,,,CHECK #642,Check #6442,B0296,R0296
+Phase 1: Deterministic (Unique Amount),,2023-08-18 00:00:00,2023-08-15 00:00:00,261.31,,,AMAZON.COM,Online shopping,B0149,R0149
+Phase 1: Deterministic (Unique Amount),,2023-08-18 00:00:00,2023-08-18 00:00:00,1114.62,,,ACH TRANSFER,Transfer,B0161,R0161
+Phase 1: Deterministic (Unique Amount),,2023-08-19 00:00:00,2023-08-18 00:00:00,65.07,,,BP GAS #2021,Fill up,B0054,R0054
+Phase 1: Deterministic (Unique Amount),,2023-08-21 00:00:00,2023-08-19 00:00:00,718.65,,,CHECK #6258,Check #6258,B0085,R0085
+Phase 1: Deterministic (Unique Amount),,2023-08-23 00:00:00,2023-08-22 00:00:00,46.59,,,online order #8392,Online purchase,B0169,R0169
+Phase 1: Deterministic (Unique Amount),,2023-08-23 00:00:00,2023-08-22 00:00:00,1144.48,,,ONLINE TRANSFER,Moved to savings,B0297,R0297
+Phase 1: Deterministic (Unique Amount),,2023-08-24 00:00:00,2023-08-24 00:00:00,34.33,,,MAINT FEE,Monthly charge,B0005,R0005
+Phase 1: Deterministic (Unique Amount),,2023-08-24 00:00:00,2023-08-22 00:00:00,195.9,,,HEALTH INS PMT,Health insurance,B0069,R0069
+Phase 1: Deterministic (Unique Amount),,2023-08-24 00:00:00,2023-08-21 00:00:00,40.12,,,AMAZON.COM,Online shopping,B0145,R0145
+Phase 1: Deterministic (Unique Amount),,2023-08-25 00:00:00,2023-08-24 00:00:00,98.92,,,BISTRO #2636,Lunch,B0162,R0162
+Phase 1: Deterministic (Unique Amount),,2023-08-27 00:00:00,2023-08-25 00:00:00,86.63,,,DINER #7015,Eating out,B0249,R0249
+Phase 1: Deterministic (Unique Amount),,2023-08-28 00:00:00,2023-08-28 00:00:00,73.86,,,KROGER #2484,GROCERY STORE,B0115,R0115
+Phase 1: Deterministic (Unique Amount),,2023-08-29 00:00:00,2023-08-26 00:00:00,232.79,,,KROGER #6892,Weekly groceries,B0089,R0089
+Phase 1: Deterministic (Unique Amount),,2023-08-29 00:00:00,2023-08-24 00:00:00,653.81,,,CHECK #9164,Check #9164,B0167,R0167
+Phase 1: Deterministic (Unique Amount),,2023-08-29 00:00:00,2023-08-28 00:00:00,32.86,,,SERVICE CHARGE,Bank fee,B0250,R0250
+Phase 1: Deterministic (Unique Amount),,2023-08-30 00:00:00,2023-08-30 00:00:00,89.71,,,CAFE #3049,Eating out,B0218,R0218
+Phase 1: Deterministic (Unique Amount),,2023-08-30 00:00:00,2023-08-30 00:00:00,3074.18,,,DIRECT DEP PAYROLL,Monthly salary,B0234,R0234
+Phase 1: Deterministic (Unique Amount),,2023-08-31 00:00:00,2023-08-31 00:00:00,61.35,,,BP GAS #9226,Gas,B0048,R0048
+Phase 1: Deterministic (Unique Amount),,2023-08-31 00:00:00,2023-08-29 00:00:00,75.44,,,DINER #9684,Restaurant,B0075,R0075
+Phase 1: Deterministic (Unique Amount),,2023-08-31 00:00:00,2023-08-29 00:00:00,68.41,,,CAFE #6759,Restaurant,B0205,R0205
+Phase 1: Deterministic (Unique Amount),,2023-09-01 00:00:00,2023-08-29 00:00:00,28.27,,,EBAY PURCHASE,Online purchase,B0262,R0262
+Phase 1: Deterministic (Unique Amount),,2023-09-02 00:00:00,2023-09-02 00:00:00,65.24,,,BP GAS #6423,GAS,B0219,R0219
+Phase 1: Deterministic (Unique Amount),,2023-09-02 00:00:00,2023-09-01 00:00:00,138.27,,,TRADER JOES,Weekly groceries,B0228,R0228
+Phase 1: Deterministic (Unique Amount),,2023-09-03 00:00:00,2023-09-02 00:00:00,175.28,,,ONLINE PMT WATER,Water bill,B0214,R0214
+Phase 1: Deterministic (Unique Amount),,2023-09-03 00:00:00,2023-09-02 00:00:00,187.6,,,KROGER #4987,Food shopping,B0248,R0248
+Phase 1: Deterministic (Unique Amount),,2023-09-03 00:00:00,2023-09-01 00:00:00,81.42,,,TRADER JOES,Grocery store,B0275,R0275
+Phase 1: Deterministic (Unique Amount),,2023-09-04 00:00:00,2023-09-02 00:00:00,256.47,,,ONLINE ORDER #4627,Online shopping,B0135,R0135
+Phase 1: Deterministic (Unique Amount),,2023-09-05 00:00:00,2023-09-04 00:00:00,52.42,,,BP GAS #1878,Gas station,B0070,R0070
+Phase 1: Deterministic (Unique Amount),,2023-09-05 00:00:00,2023-09-05 00:00:00,102.72,,,ATM WITHDRAWAL #1190,Cash withdrawal,B0284,R0284
+Phase 1: Deterministic (Unique Amount),,2023-09-08 00:00:00,2023-09-07 00:00:00,71.21,,,SHELL #4556,Fill up,B0035,R0035
+Phase 1: Deterministic (Unique Amount),,2023-09-09 00:00:00,2023-09-09 00:00:00,1758.17,,,ACH TRANSFER,Moved to savings,B0079,R0079
+Phase 1: Deterministic (Unique Amount),,2023-09-09 00:00:00,2023-09-09 00:00:00,58.8,,,BISTRO #6600,Lunch,B0266,R0266
+Phase 1: Deterministic (Unique Amount),,2023-09-11 00:00:00,2023-09-09 00:00:00,145.49,,,AMAZON.COM,Online shopping,B0273,R0273
+Phase 1: Deterministic (Unique Amount),,2023-09-13 00:00:00,2023-09-11 00:00:00,149.32,,,KROGER #4104,Weekly groceries,B0095,R0095
+Phase 1: Deterministic (Unique Amount),,2023-09-15 00:00:00,2023-09-13 00:00:00,93.0,,,TRADER JOES,Grocery store,B0240,R0240
+Phase 1: Deterministic (Unique Amount),,2023-09-15 00:00:00,2023-09-13 00:00:00,208.73,,,ATM WITHDRAWAL #7893,Cash withdrawal,B0257,R0257
+Phase 1: Deterministic (Unique Amount),,2023-09-17 00:00:00,2023-09-15 00:00:00,58.56,,,ONLINE ORDER #6051,Online purchase,B0016,R0016
+Phase 1: Deterministic (Unique Amount),,2023-09-17 00:00:00,2023-09-16 00:00:00,2525.3,,,ACH CREDIT SALARY,Paycheck,B0068,R0068
+Phase 1: Deterministic (Unique Amount),,2023-09-17 00:00:00,2023-09-16 00:00:00,102.95,,,DINER #3454,Eating out,B0097,R0097
+Phase 1: Deterministic (Unique Amount),,2023-09-19 00:00:00,2023-09-16 00:00:00,130.74,,,KROGER #6854,Weekly groceries,B0293,R0293
+Phase 1: Deterministic (Unique Amount),,2023-09-21 00:00:00,2023-09-20 00:00:00,111.02,,,MISC TRANSACTION 1154,Other expense,B0305,R0305
+Phase 1: Deterministic (Unique Amount),,2023-09-23 00:00:00,2023-09-18 00:00:00,145.2,,,CHECK #8555,Check #8555,B0052,R0052
+Phase 1: Deterministic (Unique Amount),,2023-09-23 00:00:00,2023-09-23 00:00:00,946.98,,,XFER TO SAVINGS,Internal transfer,B0283,R0283
+Phase 1: Deterministic (Unique Amount),,2023-09-24 00:00:00,2023-09-22 00:00:00,132.86,,,ONLINE ORDER #3869,Online purchase,B0241,R0241
+Phase 1: Deterministic (Unique Amount),,2023-09-26 00:00:00,2023-09-25 00:00:00,70.57,,,EXXON #8158,Gas staton,B0222,R0222
+Phase 1: Deterministic (Unique Amount),,2023-09-27 00:00:00,2023-09-27 00:00:00,3280.91,,,DIRECT DEPOSIT,Monthly salary,B0171,R0171
+Phase 1: Deterministic (Unique Amount),,2023-09-28 00:00:00,2023-09-28 00:00:00,94.15,,,RESTAURANT #1098,Dinner out,B0236,R0236
+Phase 1: Deterministic (Unique Amount),,2023-09-30 00:00:00,2023-09-26 00:00:00,318.59,,,MISC TRANSACTION 2686,Other expense,B0302,R0302
+Phase 1: Deterministic (Unique Amount),,2023-10-01 00:00:00,2023-09-30 00:00:00,273.47,,,ONLINE ORDER #5297,Amazon order,B0060,R0060
+Phase 1: Deterministic (Unique Amount),,2023-10-01 00:00:00,2023-09-28 00:00:00,346.88,,,CK #3062,Paid by check,B0078,R0078
+Phase 1: Deterministic (Unique Amount),,2023-10-01 00:00:00,2023-09-30 00:00:00,48.16,,,SUBSCRIPTION #4840,Music subscription,B0103,R0103
+Phase 1: Deterministic (Unique Amount),,2023-10-01 00:00:00,2023-09-29 00:00:00,112.73,,,BISTRO #1606,Dinner out,B0280,R0280
+Phase 1: Deterministic (Unique Amount),,2023-10-02 00:00:00,2023-09-30 00:00:00,341.45,,,INSURANCE PMT,Health insurance,B0281,R0281
+Phase 1: Deterministic (Unique Amount),,2023-10-03 00:00:00,2023-10-03 00:00:00,1547.53,,,XFER TO SAVINGS,Transfer,B0229,R0229
+Phase 1: Deterministic (Unique Amount),,2023-10-04 00:00:00,2023-10-03 00:00:00,191.15,,,TRADER JOES,Weekly groceries,B0019,R0019
+Phase 1: Deterministic (Unique Amount),,2023-10-05 00:00:00,2023-10-05 00:00:00,152.41,,,WHOLE FOODS #9050,Groceries,B0254,R0254
+Phase 1: Deterministic (Unique Amount),,2023-10-05 00:00:00,2023-10-05 00:00:00,97.2,,,CAFE #3733,Eating out,B0298,R0298
+Phase 1: Deterministic (Unique Amount),,2023-10-06 00:00:00,2023-10-05 00:00:00,23.3,,,MONTHLY FEE,Monthly charge,B0237,R0237
+Phase 1: Deterministic (Unique Amount),,2023-10-07 00:00:00,2023-10-02 00:00:00,298.4,,,CHECK #6390,Check payment,B0003,R0003
+Phase 1: Deterministic (Unique Amount),,2023-10-07 00:00:00,2023-10-05 00:00:00,209.29,,,ONLINE ORDER #3327,Online shopping,B0277,R0277
+Phase 1: Deterministic (Unique Amount),,2023-10-08 00:00:00,2023-10-05 00:00:00,123.56,,,EBAY PURCHASE,Online shopping,B0129,R0129
+Phase 1: Deterministic (Unique Amount),,2023-10-09 00:00:00,2023-10-09 00:00:00,68.21,,,DINER #7184,Dinner out,B0091,R0091
+Phase 1: Deterministic (Unique Amount),,2023-10-10 00:00:00,2023-10-09 00:00:00,202.4,,,WHOLE FOODS #5282,Groceries,B0191,R0191
+Phase 1: Deterministic (Unique Amount),,2023-10-11 00:00:00,2023-10-11 00:00:00,112.61,,,ONLINE PMT GAS CO,Gas bill,B0046,R0046
+Phase 1: Deterministic (Unique Amount),,2023-10-12 00:00:00,2023-10-11 00:00:00,394.11,,,ONLINE TRANSFER,Internal transfer,B0027,R0027
+Phase 1: Deterministic (Unique Amount),,2023-10-12 00:00:00,2023-10-12 00:00:00,167.83,,,ONLINE PMT ELEC CO,Utilities,B0073,R0073
+Phase 1: Deterministic (Unique Amount),,2023-10-14 00:00:00,2023-10-13 00:00:00,73.0,,,EXXON #4073,Fill up,B0053,R0053
+Phase 1: Deterministic (Unique Amount),,2023-10-14 00:00:00,2023-10-12 00:00:00,151.63,,,EBAY PURCHASE,Online shoppng,B0247,R0247
+Phase 1: Deterministic (Unique Amount),,2023-10-15 00:00:00,2023-10-12 00:00:00,275.85,,,AMAZON.COM,Online purchase,B0117,R0117
+Phase 1: Deterministic (Unique Amount),,2023-10-17 00:00:00,2023-10-15 00:00:00,100.29,,,RESTAURANT #1502,Eating out,B0106,R0106
+Phase 1: Deterministic (Unique Amount),,2023-10-19 00:00:00,2023-10-19 00:00:00,72.43,,,DINER #5735,Restaurant,B0252,R0252
+Phase 1: Deterministic (Unique Amount),,2023-10-20 00:00:00,2023-10-18 00:00:00,291.8,,,AUTO INS,Insurance payment,B0022,R0022
+Phase 1: Deterministic (Unique Amount),,2023-10-20 00:00:00,2023-10-17 00:00:00,92.88,,,WHOLE FOODS #3731,Grocery store,B0099,R0099
+Phase 1: Deterministic (Unique Amount),,2023-10-20 00:00:00,2023-10-19 00:00:00,185.49,,,TRADER JOES,Grocery store,B0271,R0271
+Phase 1: Deterministic (Unique Amount),,2023-10-21 00:00:00,2023-10-21 00:00:00,16.54,,,MONTHLY FEE,Bank fee,B0226,R0226
+Phase 1: Deterministic (Unique Amount),,2023-10-22 00:00:00,2023-10-22 00:00:00,15.0,,,SPOTIFY,Monthly subscription,B0190,R0190
+Phase 1: Deterministic (Unique Amount),,2023-10-24 00:00:00,2023-10-24 00:00:00,1470.66,,,ONLINE TRANSFER,Internal transfer,B0208,R0208
+Phase 1: Deterministic (Unique Amount),,2023-10-25 00:00:00,2023-10-23 00:00:00,52.84,,,TRADER JOES,Grocery store,B0043,R0043
+Phase 1: Deterministic (Unique Amount),,2023-10-26 00:00:00,2023-10-25 00:00:00,59.39,,,CAE #1769,Eating out,B0012,R0012
+Phase 1: Deterministic (Unique Amount),,2023-10-26 00:00:00,2023-10-23 00:00:00,281.39,,,ONLINE ORDER #5658,Online shopping,B0030,R0030
+Phase 1: Deterministic (Unique Amount),,2023-10-26 00:00:00,2023-10-26 00:00:00,219.66,,,AUTO INS,Car insurance,B0107,R0107
+Phase 1: Deterministic (Unique Amount),,2023-10-27 00:00:00,2023-10-27 00:00:00,1727.79,,,ACH TRANSFER,Moved to savings,B0057,R0057
+Phase 1: Deterministic (Unique Amount),,2023-10-28 00:00:00,2023-10-26 00:00:00,84.1,,,ONLINE ORDER #9815,Amazon order,B0217,R0217
+Phase 1: Deterministic (Unique Amount),,2023-10-29 00:00:00,2023-10-28 00:00:00,34.51,,,SERVICE CHARGE,Bank fee,B0077,R0077
+Phase 1: Deterministic (Unique Amount),,2023-10-29 00:00:00,2023-10-28 00:00:00,44.43,,,SUBSCRIPTION #8455,Streaming service,B0300,R0300
+Phase 1: Deterministic (Unique Amount),,2023-10-30 00:00:00,2023-10-29 00:00:00,206.55,,,AMAZON.COM,Online shopping,B0292,R0292
+Phase 1: Deterministic (Unique Amount),,2023-11-04 00:00:00,2023-11-02 00:00:00,816.6,,,CHECK #7863,Check #7863,B0067,R0067
+Phase 1: Deterministic (Unique Amount),,2023-11-05 00:00:00,2023-11-04 00:00:00,200.84,,,SAFEWAY #4748,Weekly groceries,B0148,R0148
+Phase 1: Deterministic (Unique Amount),,2023-11-05 00:00:00,2023-11-03 00:00:00,65.48,,,DINER #5218,Eating out,B0179,R0179
+Phase 1: Deterministic (Unique Amount),,2023-11-06 00:00:00,2023-11-05 00:00:00,27.46,,,RESTAURANT #1391,Restaurant,B0088,R0088
+Phase 1: Deterministic (Unique Amount),,2023-11-07 00:00:00,2023-11-07 00:00:00,54.7,,,DINER #2986,Eating out,B0197,R0197
+Phase 1: Deterministic (Unique Amount),,2023-11-08 00:00:00,2023-11-07 00:00:00,12.78,,,SERVICE CHARGE,Bank fee,B0168,R0168
+Phase 1: Deterministic (Unique Amount),,2023-11-10 00:00:00,2023-11-08 00:00:00,187.27,,,SAFEWAY #8777,Groceres,B0185,R0185
+Phase 1: Deterministic (Unique Amount),,2023-11-12 00:00:00,2023-11-11 00:00:00,19.92,,,NETFLIX,Gym,B0199,R0199
+Phase 1: Deterministic (Unique Amount),,2023-11-12 00:00:00,2023-11-08 00:00:00,202.9,,,EBAY PURCHASE,Amazon order,B0256,R0256
+Phase 1: Deterministic (Unique Amount),,2023-11-13 00:00:00,2023-11-13 00:00:00,1380.54,,,XFER TO SAVINGS,Moved to savings,B0139,R0139
+Phase 1: Deterministic (Unique Amount),,2023-11-13 00:00:00,2023-11-12 00:00:00,4096.11,,,DIRECT DEP PAYROLL,Income,B0267,R0267
+Phase 1: Deterministic (Unique Amount),,2023-11-14 00:00:00,2023-11-12 00:00:00,39.68,,,CAFE #9792,lunch,B0039,R0039
+Phase 1: Deterministic (Unique Amount),,2023-11-19 00:00:00,2023-11-19 00:00:00,12.71,,,NETFLIX,Monthly subscription,B0255,R0255
+Phase 1: Deterministic (Unique Amount),,2023-11-24 00:00:00,2023-11-20 00:00:00,250.69,,,AMAZON.COM,Online shopping,B0224,R0224
+Phase 1: Deterministic (Unique Amount),,2023-11-25 00:00:00,2023-11-24 00:00:00,21.52,,,SERVICE CHARGE,Bank fee,B0253,R0253
+Phase 1: Deterministic (Unique Amount),,2023-11-27 00:00:00,2023-11-24 00:00:00,145.31,,,AMAZON.COM,Amazon order,B0031,R0031
+Phase 1: Deterministic (Unique Amount),,2023-11-27 00:00:00,2023-11-27 00:00:00,3730.02,,,ACH CREDIT SALARY,Paycheck,B0151,R0151
+Phase 1: Deterministic (Unique Amount),,2023-11-27 00:00:00,2023-11-24 00:00:00,599.42,,,CHECK #7709,Check payment,B0294,R0294
+Phase 1: Deterministic (Unique Amount),,2023-11-28 00:00:00,2023-11-26 00:00:00,648.22,,,CHECK #5426,Check payment,B0008,R0008
+Phase 1: Deterministic (Unique Amount),,2023-11-29 00:00:00,2023-11-28 00:00:00,4082.76,,,ACH CREDIT SALARY,Monthly salary,B0166,R0166
+Phase 1: Deterministic (Unique Amount),,2023-12-02 00:00:00,2023-11-30 00:00:00,365.64,,,MISC TRANSACTION 1784,Other expense,B0307,R0307
+Phase 1: Deterministic (Unique Amount),,2023-12-04 00:00:00,2023-12-02 00:00:00,217.72,,,whole foods #3811,Groceries,B0194,R0194
+Phase 1: Deterministic (Unique Amount),,2023-12-11 00:00:00,2023-12-09 00:00:00,88.87,,,DINER #8858,Dinner out,B0116,R0116
+Phase 1: Deterministic (Unique Amount),,2023-12-13 00:00:00,2023-12-11 00:00:00,89.67,,,DINER #7616,Eating out,B0212,R0212
+Phase 1: Deterministic (Unique Amount),,2023-12-15 00:00:00,2023-12-12 00:00:00,167.26,,,KROGER #7949,Grocery store,B0013,R0013
+Phase 1: Deterministic (Unique Amount),,2023-12-15 00:00:00,2023-12-13 00:00:00,52.07,,,ATM 3433 CASH,Withdrew cash,B0014,R0014
+Phase 1: Deterministic (Unique Amount),,2023-12-15 00:00:00,2023-12-13 00:00:00,194.05,,,ONLINE ORDER #6977,Amazon order,B0112,R0112
+Phase 1: Deterministic (Unique Amount),,2023-12-19 00:00:00,2023-12-17 00:00:00,210.12,,,AMAZON.COM,Amazon order,B0009,R0009
+Phase 1: Deterministic (Unique Amount),,2023-12-20 00:00:00,2023-12-20 00:00:00,63.99,,,BISTRO #9155,Dinner out,B0210,R0210
+Phase 1: Deterministic (Unique Amount),,2023-12-23 00:00:00,2023-12-19 00:00:00,182.39,,,EBAY PURCHASE,Online purchase,B0119,R0119
+Phase 1: Deterministic (Unique Amount),,2023-12-24 00:00:00,2023-12-20 00:00:00,51.75,,,AMAZON.COM,Online shopping,B0156,R0156
+Phase 1: Deterministic (Unique Amount),,2023-12-25 00:00:00,2023-12-24 00:00:00,240.25,,,ONLINE PMT GAS O,Utilities,B0087,R0087
+Phase 1: Deterministic (Unique Amount),,2023-12-26 00:00:00,2023-12-26 00:00:00,1720.31,,,XFER TO SAVINGS,Internal transfer,B0130,R0130
+Phase 2: ML Semantic Match,0.5674661444664002,2023-03-13,2023-03-12,,207.03,207.04,TRADER JOES,Weekly groceries,B0188,R0188
+Phase 2: ML Semantic Match,0.5345886472940424,2023-05-07,2023-05-06,,1762.14,1762.12,ONLINE TRANSFER,Move to savings,B0299,R0299
+Phase 2: ML Semantic Match,0.5486663868589717,2023-05-27,2023-05-25,,221.74,221.76,TRADER JOES,Groceries,B0176,R0176
+Phase 2: ML Semantic Match,0.5170726294517516,2023-06-04,2023-06-03,,60.73,60.78,EXXON #2678,Fill up,B0127,R0127
+Phase 2: ML Semantic Match,0.5559025692436721,2023-07-05,2023-07-05,,38.17,38.14,GYM MEMBERSHIP,Music subscription,B0006,R0006
+Phase 2: ML Semantic Match,0.7017577409744262,2023-08-01,2023-07-31,,57.56,57.56,BP GAS #5199,Gas,B0232,R0232
+Phase 2: ML Semantic Match,0.7459541322561413,2023-08-20,2023-08-16,,160.46,160.48,CHECK #3975,Check #3975,B0286,R0286
+Phase 2: ML Semantic Match,0.5842010859175044,2023-09-02,2023-08-31,,236.84,236.83,KROGER #3255,Grocery store,B0225,R0225
+Phase 2: ML Semantic Match,0.5173164205236749,2023-11-12,2023-11-10,,105.05,105.05,BISTRO #7694,Restaurant,B0206,R0206
+Phase 2: ML Semantic Match,0.750906217098236,2023-11-26,2023-11-25,,192.86,192.86,HEALTH INS PMT,Health insurance,B0011,R0011
+Phase 2: ML Semantic Match,0.6774757888290908,2023-12-09,2023-12-09,,57.56,57.56,BP GAS #8869,Gas station,B0064,R0064
+Phase 2: ML Semantic Match,0.792339866065979,2023-12-11,2023-12-10,,84.75,84.74,ONLINE ORDER #5973,Amazon order,B0239,R0239
+UNMATCHED ANOMALY (Bank Statement),,2023-01-12,,,147.29,,ONLINE PMT WATER,,B0110,
+UNMATCHED ANOMALY (Bank Statement),,2023-02-13,,,86.38,,BISTRO #4304,,B0153,
+UNMATCHED ANOMALY (Bank Statement),,2023-04-29,,,192.86,,SAFEWAY #8208,,B0076,
+UNMATCHED ANOMALY (Bank Statement),,2023-07-25,,,16.58,,SUBSCRIPTION #3747,,B0026,
+UNMATCHED ANOMALY (Bank Statement),,2023-08-19,,,105.05,,ONLINE PMT ELEC CO,,B0164,
+UNMATCHED ANOMALY (Bank Statement),,2023-09-01,,,503.36,,CK #9571,,B0074,
+UNMATCHED ANOMALY (Bank Statement),,2023-10-20,,,171.71,,TRADER JOES,,B0195,
+UNMATCHED ANOMALY (Bank Statement),,2023-11-29,,,99.83,,ONLINE PMT GAS CO,,B0118,
+UNMATCHED ANOMALY (Bank Statement),,2023-12-14,,,173.42,,ONLINE ORDER #1956,,B0242,
+UNMATCHED ANOMALY (Bank Statement),,2023-12-21,,,192.84,,SAFEWAY #8554,,B0160,
+UNMATCHED ANOMALY (Check Register),,,2023-01-10,,,147.33,,Electric bill,,R0110
+UNMATCHED ANOMALY (Check Register),,,2023-02-11,,,86.4,,Lunch,,R0153
+UNMATCHED ANOMALY (Check Register),,,2023-04-29,,,192.86,,Food shopping,,R0076
+UNMATCHED ANOMALY (Check Register),,,2023-07-25,,,16.57,,Gym,,R0026
+UNMATCHED ANOMALY (Check Register),,,2023-08-17,,,105.05,,Utilities,,R0164
+UNMATCHED ANOMALY (Check Register),,,2023-08-27,,,503.34,,Paid by check,,R0074
+UNMATCHED ANOMALY (Check Register),,,2023-10-17,,,171.75,,Grocery store,,R0195
+UNMATCHED ANOMALY (Check Register),,,2023-11-28,,,99.78,,Electric bill,,R0118
+UNMATCHED ANOMALY (Check Register),,,2023-12-10,,,173.4,,Online purchase,,R0242
+UNMATCHED ANOMALY (Check Register),,,2023-12-20,,,192.83,,Weekly groceries,,R0160
